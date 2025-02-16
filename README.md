@@ -42,3 +42,22 @@ The smart greenhouse model developed in this project shows great potential in ad
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/smart-greenhouse.git
+
+## Required Hardware
+- **Arduino Uno R3**  
+- **Temperature Sensor**  
+- **Humidity Sensor**  
+- **Soil Moisture Sensor**  
+- **Photoresistor**  
+- **PIR Sensor**  
+- **Relay Modules**  
+
+## Upload the Code
+Use the **Arduino IDE** to upload the code to the **Arduino Uno R3**.  
+
+## Contributing
+Feel free to **fork this project**, make improvements, and create **pull requests**. Contributions are always welcome.  
+
+## License
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
+
